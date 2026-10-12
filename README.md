@@ -6,7 +6,7 @@ Automated master controller for the continuous, unattended execution of the ESCC
 
 **Author:** Babul Pradhan, Ph.D. Student, Institute of Bioinformatics (IOB), Bangalore, India
 **Supervisor:** Dr. Jyoti Sharma, Institute of Bioinformatics (IOB), Bangalore, India
-**Date:** 09/02/2025
+**Date:** 09/12/2025
 **Part of:** Automated Transcriptomic Analysis Pipeline for ESCC
 
 ---
